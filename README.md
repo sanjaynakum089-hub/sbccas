@@ -1,36 +1,70 @@
-<h1 align="center">Hi 👋, I'm Amroli BCA</h1>
-<!--
-**sbccas/sbccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-🎓 Welcome to AMROLI BCA, where knowledge meets innovation, and excellence is a way of life! 🌟
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Amroli%20BCA&fontSize=70&animation=fadeIn" width="100%" />
+</div>
 
-📚 Unlock the doors to endless learning and discovery with AMROLI BCA. We're your trusted source for:
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-Top%20Class-gold?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/Legacy-25%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Community-Open%20Source-brightgreen?style=for-the-badge&logo=github" />
+</p>
 
-🚀 Innovative Courses: Explore cutting-edge courses designed to fuel your curiosity and drive your career forward.
+<h3 align="center">🎓 Where Knowledge Meets Innovation & Excellence is a Way of Life</h3>
 
-🌍 Global Community: Join a vibrant community of learners and educators from all corners of the world. Together, we're redefining education.
+---
 
-💡 Tech Enthusiasts: Whether you're a coding ninja, design maven, data wizard, or just passionate about technology, you're in good company.
+## 🏫 About Us
+**AMROLI BCA** is more than just an educational institution; we are a vibrant ecosystem of lifelong learners, dreamers, and innovators. With a rich **25-year legacy**, we stand at the absolute forefront of Computer Science education, shaping the tech leaders of tomorrow.
 
-🧠 Lifelong Learners: Embrace the lifelong learning journey. The world is your classroom, and knowledge is your superpower.
+> **Our Mission:** Dedicated to delivering world-class education that equips students to navigate, disrupt, and lead in the 21st-century global tech landscape.
 
-🌱 Our Commitment:
-- 🤝 We believe in the power of collaboration and open-source education.
-- 🌐 Our mission is to make quality education accessible to all, regardless of borders or backgrounds.
-- 📢 Your feedback shapes our offerings. Help us tailor the perfect learning experience for you.
+---
 
-🏫 About Us:
-AMROLI BCA is not just an educational institution; we are a community of lifelong learners, dreamers, and innovators. With a legacy spanning 25 Years, we have been at the forefront of Comuter Science.
+## 🚀 Key Ecosystem Pillars
 
-🌍 Our Mission:
-At AMROLI BCA, we are dedicated to Top Class Education. Our goal is to prepare students for the challenges and opportunities of the 21st century.
+### 💡 Tech Enthusiasts Hub
+Whether you are a coding ninja building seamless backends, a design maven crafting elegant UIs, or a data wizard uncovering insights—you belong here.
 
-🏆 What Sets Us Apart:
-- 📚 World-class faculty and researchers pushing the boundaries of knowledge.
-- 🌐 A diverse and inclusive community that celebrates different perspectives.
-- 🚀 Innovative programs and initiatives that prepare students for real-world success.
-- 🌱 A commitment to sustainability and ethical leadership.
+### 📚 Innovative Curriculum
+Explore cutting-edge coursework engineered to fuel curiosity, bridge academic theories with industry realities, and accelerate your tech career.
+
+### 🌍 Global Community
+Join an inclusive, diverse network of learners and educators working collaboratively to redefine digital education beyond geographical borders.
+
+---
+
+## 🏆 What Sets Us Apart
+*   **Expert Faculty:** Mentorship from seasoned educators and researchers pushing the boundaries of technology.
+*   **Inclusive Innovation:** A diverse space that celebrates unique perspectives and creative problem-solving.
+*   **Future-Ready Programs:** Practical, hands-on initiatives designed for immediate real-world success.
+*   **Ethical Leadership:** A deep-rooted commitment to sustainability, open-source collaboration, and responsible tech development.
+
+---
+
+## 📊 Git Stats & Insights
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbccas&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=sbccas&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌱 Our Commitment
+*   🤝 **Collaboration:** We believe in democratization of knowledge through open-source education.
+*   🌐 **Accessibility:** Making quality technical learning universally accessible.
+*   📢 **Evolution:** Your insights matter. Help us continuously refine and tailor our digital learning experiences.
+
+<p align="center">
+  ✨ <i>"The world is your classroom, and knowledge is your ultimate superpower."</i> ✨
+</p>- 🌱 A commitment to sustainability and ethical leadership.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbccas&show_icons=true&locale=en&layout=compact" alt="sbccas" /></p>
 
